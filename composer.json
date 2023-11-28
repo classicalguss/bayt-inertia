@@ -1,0 +1,18 @@
+{
+    "name": "gbarghouti/yii-inertia",
+    "description": "Yii1 adapter for inertia",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Gbarghouti\\YiiInertia\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "gbarghouti",
+            "email": "g.barghouti@bayt.net"
+        }
+    ],
+    "require": {}
+}
