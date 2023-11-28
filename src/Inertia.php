@@ -4,7 +4,7 @@ namespace Gbarghouti\YiiInertia;
 
 class Inertia
 {
-	public function render() {
+	public static function render() {
 		print 'rendering Inertia';
 	}
 }
